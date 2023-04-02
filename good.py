@@ -2,4 +2,4 @@ print("good")
 
 hello = 9
 
-print(f"This is the number {hell0}")
+print(f"This is the number {hello}")
